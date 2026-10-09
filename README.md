@@ -17,7 +17,7 @@ GitHub Pages builds the website from `main` and `/docs`. After you push a change
 
 ## Purpose and sources
 
-Replace this paragraph with two or three sentences about your guide's audience and purpose. The first eight resources were supplied by COMPSS 211A. Name the resource you added and link to the official webpage you used to check it.
+This website contains links to nine resources available to students, including Cal Student Central, which could be further explored with the following link: https://studentcentral.berkeley.edu. The first eight resources were supplied by COMPSS 211A. I also checked and added the link to Morrison Library.
 
 ## Website checks
 
